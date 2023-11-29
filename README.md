@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,javascript,typescript,express,html,pug,css,sass,bootstrap,tailwind,figma" />
-    <img src="https://skillicons.dev/icons?i=go,graphql" />
+    <img src="https://skillicons.dev/icons?i=go,graphql,dynamodb,neo4j" />
     <img src="https://skillicons.dev/icons?i=vue,jest,firebase,babel,mongodb,java,mysql,jenkins,docker,vscode,linux,github,git" /><br>
 </div>
 
